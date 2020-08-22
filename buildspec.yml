@@ -1,0 +1,14 @@
+version: 0.1
+
+phases:
+  build:
+    commands:
+      - echo nothing to do yet
+artefacts:
+  files:
+    - index.html
+    - favicon
+    - cv/cv.pdf
+    - styles/main.css
+    - images/*
+
